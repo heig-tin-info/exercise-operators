@@ -20,7 +20,7 @@ void test(int value) {
 }
 
 int main(void) {
-    printf("Bienvenue dans ce petit exercise. Évaluons votre score...\n\n");
+    printf("Bienvenue dans ce petit exercice. Évaluons votre score...\n\n");
 
     // Première partie
     test(a != 0);
