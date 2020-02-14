@@ -1,0 +1,9 @@
+char a = -1;
+int b = 0xab - 0x32;
+int c = 0b0010100;
+int d = 0b110110101;
+int e = 0x4514 / 2;
+int f = 2;
+int g = 100;
+int i = 43;
+float h = 2.020004272;
